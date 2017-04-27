@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dlib-1.0.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b4dfec61cf2ed5ed695b00997da606894fd75ec8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b4dfec61cf2ed5ed695b00997da606894fd75ec8/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tzutalin.dlib-android-app/dlib/1.0.3/a5d42aa2c7c2dd479ac936c696c2dcfe2013b41/dlib-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
